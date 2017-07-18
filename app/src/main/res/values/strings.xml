@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">StreetShops</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_language">Language</string>
+    <string name="action_currencies">Currencies</string>
+    <string name="action_cart">Cart</string>
+    <string name="action_about_us">About Us</string>
+    <string name="action_terms_condition">Terms &amp; Condition</string>
+    <string name="action_return">Return</string>
+    <string name="action_shipping_policy">Shipping Policy</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="signin">Sign in</string>
+    <string name="forgot_password">I forgot password</string>
+    <string name="create_new_account">Create new account</string>
+
+    <string name="home">Home</string>
+    <string name="search_by_keyword">Search by Keyword</string>
+    <string name="push_notification">Push Notification</string>
+    <string name="profile">Profile</string>
+    <string name="transactions_history">Transactions History</string>
+    <string name="my_favourite_items">My Favourite Items</string>
+    <string name="logout">Logout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_register">RegisterActivity</string>
+
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+
+    <string name="netrwork_error">Network Error</string>
+    <string name="loading_page">Loading......</string>
+
+    <string name="cartadded">Product Added !</string>
+    <string name="cartaddedtext">Thank you for shopping with us.</string>
+    <string name="cartcontinue">Continue Shopping</string>
+    <string name="cartgoto">Go to Shopping Cart</string>
+
+</resources>

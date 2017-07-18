@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_language"
+        android:orderInCategory="100"
+        android:title="@string/action_language"
+        app:showAsAction="never"
+        android:visible="false"
+        />
+
+
+
+    <item
+        android:id="@+id/action_cart"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_cart"
+        android:title="@string/action_cart"
+        app:showAsAction="ifRoom" />
+
+    <!--<item-->
+        <!--android:id="@+id/action_currencies"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="@string/action_currencies"-->
+        <!--app:showAsAction="never" />-->
+
+    <item
+        android:id="@+id/action_about_us"
+        android:orderInCategory="100"
+        android:title="@string/action_about_us"
+        app:showAsAction="never"
+        android:visible="false"
+        />
+
+    <item
+        android:id="@+id/action_terms_condition"
+        android:orderInCategory="100"
+        android:title="@string/action_terms_condition"
+        app:showAsAction="never"
+        android:visible="false"
+        />
+
+    <item
+        android:id="@+id/action_return"
+        android:orderInCategory="100"
+        android:title="@string/action_return"
+        app:showAsAction="never"
+        android:visible="false"
+        />
+
+    <item
+        android:id="@+id/action_shipping_policy"
+        android:orderInCategory="100"
+        android:title="@string/action_shipping_policy"
+        app:showAsAction="never"
+        android:visible="false"
+        />
+</menu>

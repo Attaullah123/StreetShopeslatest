@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="4dp"
+    android:background="#f2f3f5">
+
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="4dp"
+        android:scaleType="center"
+        android:src="@mipmap/paypal"
+        android:background="@drawable/corner_bg"/>
+
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="4dp"
+        android:scaleType="center"
+        android:src="@mipmap/card"
+        android:background="@drawable/corner_bg"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="4dp"
+        android:textStyle="bold"
+        android:textColor="@color/colorBlack"
+        android:text="CHEQUE PAYMENT"
+        android:background="@drawable/corner_bg"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="4dp"
+        android:textStyle="bold"
+        android:textColor="@color/colorBlack"
+        android:text="BANK TRANSFER"
+        android:background="@drawable/corner_bg"/>
+</LinearLayout>
